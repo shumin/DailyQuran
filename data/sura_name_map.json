@@ -1,0 +1,686 @@
+[
+  {
+    "index": 1,
+    "sura_bn": "সূরা আল ফাতিহা",
+    "sura_en": "Surah Al-Fatihah",
+    "aya_count": 7
+  },
+  {
+    "index": 2,
+    "sura_bn": "সূরা আল বাক্বারাহ",
+    "sura_en": "Surah Al-Baqara",
+    "aya_count": 286
+  },
+  {
+    "index": 3,
+    "sura_bn": "সূরা আল ইমরান",
+    "sura_en": "Surah Al-i'Imran",
+    "aya_count": 200
+  },
+  {
+    "index": 4,
+    "sura_bn": "সূরা আন নিসা",
+    "sura_en": "Surah An-Nisaa",
+    "aya_count": 176
+  },
+  {
+    "index": 5,
+    "sura_bn": "সূরা আল মায়েদাহ",
+    "sura_en": "Surah Al-Maidah",
+    "aya_count": 120
+  },
+  {
+    "index": 6,
+    "sura_bn": "সূরা আল আন-আম",
+    "sura_en": "Surah Al-An'am",
+    "aya_count": 165
+  },
+  {
+    "index": 7,
+    "sura_bn": "সূরা আল আ’রাফ",
+    "sura_en": "Surah Al-A'raf",
+    "aya_count": 206
+  },
+  {
+    "index": 8,
+    "sura_bn": "সূরা আল-আনফাল",
+    "sura_en": "Surah Al-Anfal",
+    "aya_count": 75
+  },
+  {
+    "index": 9,
+    "sura_bn": "সূরা আত তাওবাহ",
+    "sura_en": "Surah At-Taubah",
+    "aya_count": 129
+  },
+  {
+    "index": 10,
+    "sura_bn": "সূরা ইউনুস",
+    "sura_en": "Surah Yunus",
+    "aya_count": 109
+  },
+  {
+    "index": 11,
+    "sura_bn": "সূরা হুদ",
+    "sura_en": "Surah Hud",
+    "aya_count": 123
+  },
+  {
+    "index": 12,
+    "sura_bn": "সূরা ইউসূফ",
+    "sura_en": "Surah Yusuf",
+    "aya_count": 111
+  },
+  {
+    "index": 13,
+    "sura_bn": "সূরা রা’দ",
+    "sura_en": "Surah Ar-Ra'd",
+    "aya_count": 43
+  },
+  {
+    "index": 14,
+    "sura_bn": "সূরা ইব্রাহীম",
+    "sura_en": "Surah Ibrahim",
+    "aya_count": 52
+  },
+  {
+    "index": 15,
+    "sura_bn": "সূরা হিজর",
+    "sura_en": "Surah Al-Hijr",
+    "aya_count": 99
+  },
+  {
+    "index": 16,
+    "sura_bn": "সূরা নাহল",
+    "sura_en": "Surah An-Nahl",
+    "aya_count": 128
+  },
+  {
+    "index": 17,
+    "sura_bn": "সূরা বনী ইসরাঈল",
+    "sura_en": "Surah Israel",
+    "aya_count": 111
+  },
+  {
+    "index": 18,
+    "sura_bn": "সূরা কাহফ",
+    "sura_en": "Surah Al-Kahf",
+    "aya_count": 110
+  },
+  {
+    "index": 19,
+    "sura_bn": "সূরা মারইয়াম",
+    "sura_en": "Surah Maryam",
+    "aya_count": 98
+  },
+  {
+    "index": 20,
+    "sura_bn": "সূরা ত্বোয়া-হা",
+    "sura_en": "Surah Ta-ha",
+    "aya_count": 135
+  },
+  {
+    "index": 21,
+    "sura_bn": "সূরা আম্বিয়া",
+    "sura_en": "Surah Al-Anbiyaa",
+    "aya_count": 112
+  },
+  {
+    "index": 22,
+    "sura_bn": "সূরা হাজ্জ্ব",
+    "sura_en": "Surah Al-Hajj",
+    "aya_count": 78
+  },
+  {
+    "index": 23,
+    "sura_bn": "সূরা আল মু’মিনূন",
+    "sura_en": "Surah Al-Muminun",
+    "aya_count": 118
+  },
+  {
+    "index": 24,
+    "sura_bn": "সূরা আন-নূর",
+    "sura_en": "Surah An-Nur",
+    "aya_count": 64
+  },
+  {
+    "index": 25,
+    "sura_bn": "সূরা আল-ফুরকান",
+    "sura_en": "Surah Al-Furqan",
+    "aya_count": 77
+  },
+  {
+    "index": 26,
+    "sura_bn": "সূরা আশ-শো’আরা",
+    "sura_en": "Surah Ash-Shu'araa",
+    "aya_count": 227
+  },
+  {
+    "index": 27,
+    "sura_bn": "সূরা নমল",
+    "sura_en": "Surah An-Naml",
+    "aya_count": 93
+  },
+  {
+    "index": 28,
+    "sura_bn": "সূরা আল কাসাস",
+    "sura_en": "Surah Al-Qasas",
+    "aya_count": 88
+  },
+  {
+    "index": 29,
+    "sura_bn": "সূরা আল আনকাবুত",
+    "sura_en": "Surah Al-Ankabut",
+    "aya_count": 69
+  },
+  {
+    "index": 30,
+    "sura_bn": "সূরা আর-রূম",
+    "sura_en": "Surah Ar-Rum",
+    "aya_count": 60
+  },
+  {
+    "index": 31,
+    "sura_bn": "সূরা লোকমান",
+    "sura_en": "Surah Luqman",
+    "aya_count": 34
+  },
+  {
+    "index": 32,
+    "sura_bn": "সূরা সেজদাহ",
+    "sura_en": "Surah As-Sajda",
+    "aya_count": 30
+  },
+  {
+    "index": 33,
+    "sura_bn": "সূরা আল আহযাব",
+    "sura_en": "Surah Al-Ahzab",
+    "aya_count": 73
+  },
+  {
+    "index": 34,
+    "sura_bn": "সূরা সাবা",
+    "sura_en": "Surah Saba",
+    "aya_count": 54
+  },
+  {
+    "index": 35,
+    "sura_bn": "সূরা ফাতির",
+    "sura_en": "Surah Fatir",
+    "aya_count": 45
+  },
+  {
+    "index": 36,
+    "sura_bn": "সূরা ইয়াসীন",
+    "sura_en": "Surah Ya-Sin",
+    "aya_count": 83
+  },
+  {
+    "index": 37,
+    "sura_bn": "সূরা আস-সাফফাত",
+    "sura_en": "Surah As-Saffat",
+    "aya_count": 182
+  },
+  {
+    "index": 38,
+    "sura_bn": "সূরা ছোয়াদ",
+    "sura_en": "Surah Sad",
+    "aya_count": 88
+  },
+  {
+    "index": 39,
+    "sura_bn": "সূরা আল-যুমার",
+    "sura_en": "Surah Az-Zumar",
+    "aya_count": 75
+  },
+  {
+    "index": 40,
+    "sura_bn": "সূরা আল-মু’মিন",
+    "sura_en": "Surah Al-Mu'min",
+    "aya_count": 85
+  },
+  {
+    "index": 41,
+    "sura_bn": "সূরা হা-মীম সেজদাহ",
+    "sura_en": "Surah Ha-Mim",
+    "aya_count": 54
+  },
+  {
+    "index": 42,
+    "sura_bn": "সূরা আশ-শুরা",
+    "sura_en": "Surah Ash-Shura",
+    "aya_count": 53
+  },
+  {
+    "index": 43,
+    "sura_bn": "সূরা যুখরুফ",
+    "sura_en": "Surah Az-Zukhruf",
+    "aya_count": 89
+  },
+  {
+    "index": 44,
+    "sura_bn": "সূরা আদ দোখান",
+    "sura_en": "Surah Ad-Dukhan",
+    "aya_count": 59
+  },
+  {
+    "index": 45,
+    "sura_bn": "সূরা আল জাসিয়া",
+    "sura_en": "Surah Al-Jathiya",
+    "aya_count": 37
+  },
+  {
+    "index": 46,
+    "sura_bn": "সূরা আল আহক্বাফ",
+    "sura_en": "Surah Al-Ahqaf",
+    "aya_count": 35
+  },
+  {
+    "index": 47,
+    "sura_bn": "সূরা মুহাম্মদ",
+    "sura_en": "Surah Muhammad",
+    "aya_count": 38
+  },
+  {
+    "index": 48,
+    "sura_bn": "সূরা আল ফাতহ",
+    "sura_en": "Surah Al-Fat-h",
+    "aya_count": 29
+  },
+  {
+    "index": 49,
+    "sura_bn": "সূরা আল হুজরাত",
+    "sura_en": "Surah Al-Hujurat",
+    "aya_count": 18
+  },
+  {
+    "index": 50,
+    "sura_bn": "সূরা ক্বাফ",
+    "sura_en": "Surah Qaf",
+    "aya_count": 45
+  },
+  {
+    "index": 51,
+    "sura_bn": "সূরা আয-যারিয়াত",
+    "sura_en": "Surah Az-Zariyat",
+    "aya_count": 60
+  },
+  {
+    "index": 52,
+    "sura_bn": "সূরা আত্ব তূর",
+    "sura_en": "Surah At-Tur",
+    "aya_count": 49
+  },
+  {
+    "index": 53,
+    "sura_bn": "সূরা আন-নাজম",
+    "sura_en": "Surah An-Najm",
+    "aya_count": 62
+  },
+  {
+    "index": 54,
+    "sura_bn": "সূরা আল ক্বামার",
+    "sura_en": "Surah Al-Qamar",
+    "aya_count": 55
+  },
+  {
+    "index": 55,
+    "sura_bn": "সূরা আর রহমান",
+    "sura_en": "Surah Ar-Rahman",
+    "aya_count": 78
+  },
+  {
+    "index": 56,
+    "sura_bn": "সূরা আল ওয়াক্বিয়া",
+    "sura_en": "Surah Al-Waqi'a",
+    "aya_count": 96
+  },
+  {
+    "index": 57,
+    "sura_bn": "সূরা আল হাদীদ",
+    "sura_en": "Surah Al-Hadid",
+    "aya_count": 29
+  },
+  {
+    "index": 58,
+    "sura_bn": "সূরা আল মুজাদালাহ",
+    "sura_en": "Surah Al-Mujadila",
+    "aya_count": 22
+  },
+  {
+    "index": 59,
+    "sura_bn": "সূরা আল হাশর",
+    "sura_en": "Surah Al-Hashr",
+    "aya_count": 24
+  },
+  {
+    "index": 60,
+    "sura_bn": "সূরা আল মুমতাহিনা",
+    "sura_en": "Surah Al-Mumtahana",
+    "aya_count": 13
+  },
+  {
+    "index": 61,
+    "sura_bn": "সূরা আছ-ছফ",
+    "sura_en": "Surah As-Saff",
+    "aya_count": 14
+  },
+  {
+    "index": 62,
+    "sura_bn": "সূরা আল জুমুআহ",
+    "sura_en": "Surah Al-Jumu'a",
+    "aya_count": 11
+  },
+  {
+    "index": 63,
+    "sura_bn": "সূরা মুনাফিকুন",
+    "sura_en": "Surah Al-Munafiqun",
+    "aya_count": 11
+  },
+  {
+    "index": 64,
+    "sura_bn": "সূরা আত-তাগাবুন",
+    "sura_en": "Surah At-Tagabun",
+    "aya_count": 18
+  },
+  {
+    "index": 65,
+    "sura_bn": "সূরা আত্ব-ত্বালাক্ব",
+    "sura_en": "Surah At-Talaq",
+    "aya_count": 12
+  },
+  {
+    "index": 66,
+    "sura_bn": "সূরা আত-তাহরীম",
+    "sura_en": "Surah At-Tahrim",
+    "aya_count": 12
+  },
+  {
+    "index": 67,
+    "sura_bn": "সূরা আল মুলক",
+    "sura_en": "Surah Al-Mulk",
+    "aya_count": 30
+  },
+  {
+    "index": 68,
+    "sura_bn": "সূরা আল কলম",
+    "sura_en": "Surah Al-Qalam",
+    "aya_count": 52
+  },
+  {
+    "index": 69,
+    "sura_bn": "সূরা আল হাক্বক্বাহ",
+    "sura_en": "Surah Al-Haqqa",
+    "aya_count": 52
+  },
+  {
+    "index": 70,
+    "sura_bn": "সূরা আল মা’আরিজ",
+    "sura_en": "Surah Al-Ma'arij",
+    "aya_count": 44
+  },
+  {
+    "index": 71,
+    "sura_bn": "সূরা নূহ",
+    "sura_en": "Surah Nuh",
+    "aya_count": 28
+  },
+  {
+    "index": 72,
+    "sura_bn": "সূরা আল জিন",
+    "sura_en": "Surah Al-Jinn",
+    "aya_count": 28
+  },
+  {
+    "index": 73,
+    "sura_bn": "সূরা মুযযামমিল",
+    "sura_en": "Surah Al-Muzzammil",
+    "aya_count": 20
+  },
+  {
+    "index": 74,
+    "sura_bn": "সূরা আল মুদ্দাসসির",
+    "sura_en": "Surah Al-Muddathth",
+    "aya_count": 56
+  },
+  {
+    "index": 75,
+    "sura_bn": "সূরা আল ক্বেয়ামাহ",
+    "sura_en": "Surah Al-Qiyamat",
+    "aya_count": 40
+  },
+  {
+    "index": 76,
+    "sura_bn": "সূরা আদ-দাহর",
+    "sura_en": "Surah Ad-Dahr",
+    "aya_count": 31
+  },
+  {
+    "index": 77,
+    "sura_bn": "সূরা আল মুরসালাত",
+    "sura_en": "Surah Al-Mursalat",
+    "aya_count": 50
+  },
+  {
+    "index": 78,
+    "sura_bn": "সূরা আন-নাবা",
+    "sura_en": "Surah An-Nabaa",
+    "aya_count": 40
+  },
+  {
+    "index": 79,
+    "sura_bn": "সূরা আন-নযিআ’ত",
+    "sura_en": "Surah An-Nazi'at",
+    "aya_count": 46
+  },
+  {
+    "index": 80,
+    "sura_bn": "সূরা আবাসা",
+    "sura_en": "Surah Abasa",
+    "aya_count": 42
+  },
+  {
+    "index": 81,
+    "sura_bn": "সূরা আত-তাকভীর",
+    "sura_en": "Surah At-Takwir",
+    "aya_count": 29
+  },
+  {
+    "index": 82,
+    "sura_bn": "সূরা আল ইনফিতার",
+    "sura_en": "Surah Al-Infitar",
+    "aya_count": 19
+  },
+  {
+    "index": 83,
+    "sura_bn": "সূরা আত-তাতফীফ",
+    "sura_en": "Surah Al-Mutaffife",
+    "aya_count": 36
+  },
+  {
+    "index": 84,
+    "sura_bn": "সূরা আল ইনশিক্বাক্ব",
+    "sura_en": "Surah Al-Inshiqaq",
+    "aya_count": 25
+  },
+  {
+    "index": 85,
+    "sura_bn": "সূরা আল বুরূজ",
+    "sura_en": "Surah Al-Buruj",
+    "aya_count": 22
+  },
+  {
+    "index": 86,
+    "sura_bn": "সূরা আত্ব-তারিক্ব",
+    "sura_en": "Surah At-Tariq",
+    "aya_count": 17
+  },
+  {
+    "index": 87,
+    "sura_bn": "সূরা আল আ’লা",
+    "sura_en": "Surah Al-A'la",
+    "aya_count": 19
+  },
+  {
+    "index": 88,
+    "sura_bn": "সূরা আল গাশিয়াহ",
+    "sura_en": "Surah Al-Gashiya",
+    "aya_count": 26
+  },
+  {
+    "index": 89,
+    "sura_bn": "সূরা আল ফজর",
+    "sura_en": "Surah Al-Fajr",
+    "aya_count": 30
+  },
+  {
+    "index": 90,
+    "sura_bn": "সূরা আল বালাদ",
+    "sura_en": "Surah Al-Balad",
+    "aya_count": 20
+  },
+  {
+    "index": 91,
+    "sura_bn": "সূরা আশ-শামস",
+    "sura_en": "Surah Ash-Shams",
+    "aya_count": 15
+  },
+  {
+    "index": 92,
+    "sura_bn": "সূরা আল লায়ল",
+    "sura_en": "Surah Al-Lail",
+    "aya_count": 21
+  },
+  {
+    "index": 93,
+    "sura_bn": "সূরা আদ্ব-দ্বোহা",
+    "sura_en": "Surah Adh-Dhuha",
+    "aya_count": 11
+  },
+  {
+    "index": 94,
+    "sura_bn": "সূরা আল ইনশিরাহ",
+    "sura_en": "Surah Al-Sharh",
+    "aya_count": 8
+  },
+  {
+    "index": 95,
+    "sura_bn": "সূরা ত্বীন",
+    "sura_en": "Surah At-Tin",
+    "aya_count": 8
+  },
+  {
+    "index": 96,
+    "sura_bn": "সূরা আলাক",
+    "sura_en": "Surah Al-Alaq",
+    "aya_count": 19
+  },
+  {
+    "index": 97,
+    "sura_bn": "সূরা কদর",
+    "sura_en": "Surah Al-Qadr",
+    "aya_count": 5
+  },
+  {
+    "index": 98,
+    "sura_bn": "সূরা বাইয়্যিনাহ",
+    "sura_en": "Surah Al-Baiyina",
+    "aya_count": 8
+  },
+  {
+    "index": 99,
+    "sura_bn": "সূরা যিলযাল",
+    "sura_en": "Surah Al-Zalzalah",
+    "aya_count": 8
+  },
+  {
+    "index": 100,
+    "sura_bn": "সূরা আদিয়াত",
+    "sura_en": "Surah Al-Adiyat",
+    "aya_count": 11
+  },
+  {
+    "index": 101,
+    "sura_bn": "সূরা কারেয়া",
+    "sura_en": "Surah Al-Qari'a",
+    "aya_count": 11
+  },
+  {
+    "index": 102,
+    "sura_bn": "সূরা তাকাসূর",
+    "sura_en": "Surah At-Takathur",
+    "aya_count": 8
+  },
+  {
+    "index": 103,
+    "sura_bn": "সূরা আছর",
+    "sura_en": "Surah Al-Asr",
+    "aya_count": 3
+  },
+  {
+    "index": 104,
+    "sura_bn": "সূরা হুমাযাহ",
+    "sura_en": "Surah Al-Humaza",
+    "aya_count": 9
+  },
+  {
+    "index": 105,
+    "sura_bn": "সূরা ফীল",
+    "sura_en": "Surah Al-Fil",
+    "aya_count": 5
+  },
+  {
+    "index": 106,
+    "sura_bn": "সূরা কোরাইশ",
+    "sura_en": "Surah Quraish",
+    "aya_count": 4
+  },
+  {
+    "index": 107,
+    "sura_bn": "সূরা মাউন",
+    "sura_en": "Surah Al-Ma'un",
+    "aya_count": 7
+  },
+  {
+    "index": 108,
+    "sura_bn": "সূরা কাওসার",
+    "sura_en": "Surah Al-Kauthar",
+    "aya_count": 3
+  },
+  {
+    "index": 109,
+    "sura_bn": "সূরা কাফিরুন",
+    "sura_en": "Surah Al-Kafirun",
+    "aya_count": 6
+  },
+  {
+    "index": 110,
+    "sura_bn": "সূরা নছর",
+    "sura_en": "Surah An-Nasr",
+    "aya_count": 3
+  },
+  {
+    "index": 111,
+    "sura_bn": "সূরা লাহাব",
+    "sura_en": "Surah Al-Lahab",
+    "aya_count": 5
+  },
+  {
+    "index": 112,
+    "sura_bn": "সূরা এখলাছ",
+    "sura_en": "Surah Al-Ikhlas",
+    "aya_count": 4
+  },
+  {
+    "index": 113,
+    "sura_bn": "সূরা ফালাক্ব",
+    "sura_en": "Surah Al-Falaq",
+    "aya_count": 5
+  },
+  {
+    "index": 114,
+    "sura_bn": "সূরা নাস",
+    "sura_en": "Surah Al-Nas",
+    "aya_count": 6
+  }
+]

@@ -1,0 +1,17 @@
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea/
+env
+local.properties
+daily-quran-data/.idea/*
+
+# MAC Ignores
+.DS_Store
+
+# Project Ignores
+.classpath
+.project
+.settings/
+build.properties
