@@ -6,7 +6,7 @@ import os
 class QuranBanglaGenerator:
     def __init__(self):
         self.aya_mapping_file = os.path.join(os.path.dirname(__file__), 'data/aya-365day-map.json')
-        self.bangla_quran_file = os.path.join(os.path.dirname(__file__), 'data/bangla-muhiuddin-khan.json')
+        self.bangla_quran_file = os.path.join(os.path.dirname(__file__), 'data/bangla-taisirul-quran.json')
         self.english_quran_file = os.path.join(os.path.dirname(__file__), 'data/english-sahih-international.json')
         self.sura_name_file = os.path.join(os.path.dirname(__file__), 'data/sura_name_map.json')
         self.output_file = os.path.join(os.path.dirname(__file__), 'data/output/result.json')
@@ -54,7 +54,7 @@ class QuranBanglaGenerator:
             print('Processed day: ' + str(day['day']))
 
         final_data['days'] = data
-        final_data['translation_ref_bn'] = '<a href="http://tanzil.net/#trans/bn.bengali/1:1">মাওলানা মুহিউদ্দীন খান</a>'
+        final_data['translation_ref_bn'] = '<a href="https://github.com/SadaqaWorks/IslamicDatabase">Taisirul Quran</a>'
         final_data['translation_ref_en'] = '<a href="http://tanzil.net/#trans/en.sahih/1:1">Saheeh International</a>'
 
         self.write_to_file(final_data, self.output_file)
